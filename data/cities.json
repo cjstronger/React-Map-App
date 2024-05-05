@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "f6a6",
+      "cityName": "San Jose",
+      "country": "United States of America (the)",
+      "emoji": "US",
+      "date": "2024-05-03T22:06:12.941Z",
+      "notes": "Next Month!!",
+      "position": {
+        "lat": "37.320635777857504",
+        "lng": "-122.03053236007692"
+      }
+    },
+    {
+      "id": "4eb5",
+      "cityName": "Township of Polk",
+      "country": "United States of America (the)",
+      "emoji": "US",
+      "date": "2024-05-03T23:01:10.174Z",
+      "notes": "",
+      "position": {
+        "lat": "38.548165423046584",
+        "lng": "-85.95703125000001"
+      }
+    },
+    {
+      "id": "eb70",
+      "cityName": "Cambridge",
+      "country": "United States of America (the)",
+      "emoji": "US",
+      "date": "2024-05-03T23:10:33.434Z",
+      "notes": "",
+      "position": {
+        "lat": "40.3130432088809",
+        "lng": "-100.19531250000001"
+      }
+    }
+  ]
+}
