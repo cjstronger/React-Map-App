@@ -17,11 +17,12 @@ function City() {
   const { id } = useParams();
   const { getCities, getCity, isLoading } = useCities();
   const [searchParams, setSearchParams] = useSearchParams();
+
   useEffect(
     function () {
       getCity(id);
     },
-    [id]
+    [id, getCity]
   );
   // TEMP DATA
 
